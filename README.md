@@ -120,7 +120,7 @@ FIELD_MAP = {
 }
 ```
 
-This means the validator will accept **any of those aliases**.
+This means the validator will accept **any of those aliases**.  Replace/add any value inside the curly braces with what's shown within the UI for the customers catalog mapping.
 
 ---
 
