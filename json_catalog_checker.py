@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 # --- set your local file path here ---
-json_path = Path.home() / "Downloads" / "klaviyo_rvtest.json"
+json_path = Path.home() / "Downloads" / "your_feed.json
 
 # --- optional: set to a specific ID / SKU / product reference to validate only one product ---
 TARGET_PRODUCT_REFERENCE = None

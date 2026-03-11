@@ -15,7 +15,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 # --- set your local file path here ---
-xml_path = Path.home() / "Downloads" / "klaviyo_shaneco.xml"
+xml_path = Path.home() / "Downloads" / "klaviyo_feed.xml"
 
 # --- optional: set to a specific ID / SKU / product reference to validate only one product ---
 TARGET_PRODUCT_REFERENCE = "41083539"
